@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm currently studying Computer Engineering and CyberSec enthusiast!
+## I'm currently studying Computer Engineering and CyberSec/GameDev enthusiast!
 
 - 🔭 I’m currently working on a app
 - 🌱 I’m currently learning web development.
