@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Eng Comp Student - Software Engineer Intern - Ford Motor Company
+## Eng Comp Student - Software Engineer Intern
 
 - 🌱 Learning a lot.
 - 🎓 Starting to learn about cybersecurity and etichal hacking.
