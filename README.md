@@ -11,6 +11,3 @@
 - My Itch.io (Gamedev): https://zatto.itch.io/ where I publish some of my games.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfujii-cmd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gfujii-cmd" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=gfujii-cmd&show_icons=true&theme=tokyonight" alt="gfujiicmd" /></p>
