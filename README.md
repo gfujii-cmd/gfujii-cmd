@@ -2,8 +2,7 @@
 
 ## Security Engineer
 
-- 🌱 Learning a lot.
-- 🎓 Learning AWS 
+- 🎓 Learning AWS and Kubernetes
 - ❤️ Application Security and DevSecOps
 - 🎓 Java, Python and Javascript. Learning Go
 - 📙 PTBR | EN | ES | 日本語
