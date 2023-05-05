@@ -8,6 +8,3 @@
 - 📙 PTBR | EN | ES | 日本語
 - My Itch.io: https://zatto.itch.io/ where I published some of the games that I developed for fun.
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfujii-cmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
