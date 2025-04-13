@@ -1,8 +1,8 @@
-### Hi there 👋
+### 辛い時こそ目標を見失わないで
 
-## Security Engineer
+## Security Engineer - Developer
 
-- ❤️ Application Security and DevSecOps
-- 🎓 Java, Python and Javascript. Learning Go
-- 📙 PTBR | EN | ES | 日本語
-- My Itch.io: https://zatto.itch.io/ where I published some of the games that I developed for fun.
+- ❤️ Application Security, DevSecOps, Penetration Testing.
+- 🎓 Java, Python and Javascript.
+- 📙 PTBR | EN | ES | 日本語.
+- Trying harder. 毎日.
